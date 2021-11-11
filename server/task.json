@@ -1,0 +1,28 @@
+{
+  "data": {
+    "__type": {
+      "fields": [
+        {
+          "task": "id",
+          "description": ""
+        },
+        {
+          "task": "start project",
+          "description": "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
+        },
+        {
+          "task": "run project",
+          "description": ""
+        },
+        {
+          "task": "fix project",
+          "description": ""
+        },
+        {
+         "task": "close project",
+          "description": ""
+        }
+      ]
+    }
+  }
+}
